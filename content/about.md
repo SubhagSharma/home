@@ -13,14 +13,14 @@ My research idealogy centers on and around **Efficiency in AI**—specifically, 
 
 | Degree | Institute | CGPA | Year |
 | :--- | :--- | :--- | :--- |
-| **M.Tech (CSE)** | IIT Jammu | **8.79 (Cur.)** | 2027 (Exp.) |
+| **M.Tech (CSE)** | IIT Jammu | **9.14 (Cur.)** | 2027 (Exp.) |
 | **B.Tech (CSE)** | SMVDU | **8.91** | 2024 |
 
 ### 🔭 Current Focus
 At IIT Jammu, I am researching advanced architectures for **Medical Imaging**. My goal is to bridge the gap between heavy, computational "black box" models and practical, deployable healthcare solutions.
 
 ### 🎓 Background
-* **M.Tech in CSE:** IIT Jammu (Current | CGPA: 8.79 (Current))
+* **M.Tech in CSE:** IIT Jammu (Current | CGPA: 9.14 (Current))
 * **B.Tech in CSE:** Shri Mata Vaishno Devi University (2024 | CGPA: 8.91)
 
 ### 📚 Relevant Coursework
